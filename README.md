@@ -11,6 +11,7 @@ UBC Launch Pad Coding Interview Workshop
 Follow-up question: What other chars are considered whitespaces?
 
 4) Given a binary tree, return true if there exists a path (strictly from parent to child) whose sum is equal to the root. How can you improve the algorithm if nodes are strictly positive? (start with drawing the node structure). What is the time complexity?
+SEE OTHER FILE
 
 5) Given a string and a pattern string, return the index of the first occurrence of that pattern in the string. If the pattern does not exist, return -1.
 
